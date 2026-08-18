@@ -1,0 +1,13 @@
+{
+  "file": {
+    "size": 111102,
+    "mtime": 1787070154
+  },
+  "settings": {
+    "CHUNK_SIZE": 400,
+    "CHUNK_OVERLAP": 50,
+    "EMBEDDING_MODEL_NAME": "paraphrase-multilingual-MiniLM-L12-v2"
+  },
+  "n_chunks": 116,
+  "source_file": "diabetes_q_a.txt"
+}
